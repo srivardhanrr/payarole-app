@@ -1,7 +1,6 @@
 <script lang="ts">
 	import '../app.css';
     import {ModeWatcher} from "mode-watcher";
-    import Header from "../../../omnipresence-site/src/lib/components/Header/Header.svelte";
 	let { children } = $props();
 </script>
 
